@@ -1,0 +1,153 @@
+
+body {
+background-color: #fff1e9;
+font-weight: 300;
+font-family: 'Raleway', sans-serif;
+text-align: justify;
+text-decoration: none;
+}
+
+h1	{
+color: 	#8B0000;
+font-weight: bold;
+font-size: 50px;
+font-family: 'Raleway', sans-serif;
+font-weight: normal;
+letter-spacing: 5px;
+text-transform: uppercase;
+}
+
+h2, h3	{
+color: #8B0000;
+font-size: 30px;
+font-family: 'Raleway', sans-serif;
+font-weight: bold;
+text-align: center;
+letter-spacing: 7px;
+}
+
+
+
+
+
+p	{
+line-height: 0.6;
+text-justify: center;
+
+}
+
+#logo {
+	border-radius: 10px;
+
+}
+
+#banner {
+	width: 700px;
+	margin: 10px auto; 
+	text-align: center;
+	padding: 30px ;
+	border-radius: 6px;
+	background-color: #FFFAF0;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+
+#EDUCATION {
+	background-color: #FFFAF0;
+	width: 400px;
+	text-align: justify;
+	margin: 30px;
+	margin-left: 150px;
+	font-family: Raleway, sans-serif;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+#WORK {
+	background-color: #FFFAF0;
+	width: 600px;
+	text-align: justify;
+	margin: 30px auto;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+
+#edu-work {
+	display: inline-flex;
+	text-align: center;
+}
+
+#ASSOCIATIVE {
+	background-color: #FFFAF0;
+	width: 1075px;
+	text-align: justify;
+	margin: 30px auto;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+
+#PROJECT {	
+	background-color: #FFFAF0;
+	width: 340px;
+	text-align: justify;
+	margin: 30px 40px;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);	
+
+}
+
+
+
+#INTERESTS {
+	background-color: #FFFAF0;
+	width: 340px;
+	text-align: justify;
+	margin: 30px 40px;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);	
+
+}
+
+#SKILLS {
+	background-color: #FFFAF0;
+	width: 340px;
+	text-align: justify;
+	margin: 30px 40px;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+#PIS {
+	display: inline-flex;
+	text-align: center;
+
+}
+
+#Contact {
+	background-color: #FFFAF0;
+	width: 500px;
+	text-align: center;
+	margin: 30px auto;
+	padding: 25px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
